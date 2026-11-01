@@ -1,0 +1,11 @@
+name: dataloves
+
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - jupyterlab
+      - ipykernel
+      - numpy
+      - pandas
+      - matplotlib
